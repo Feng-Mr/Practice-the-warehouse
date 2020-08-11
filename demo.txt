@@ -1,4 +1,12 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+Hello Git
+public Class Demo{
+
+	public static void main(String[]args){
+		System.out.println("first git File");
+		System.out.println("second to change git File");
+	}
+	public void show(){
+		System.out.println("hahahahba");
+	}
+	fengruilin
+}
